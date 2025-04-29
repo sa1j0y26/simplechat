@@ -1,3 +1,8 @@
+# Lambdaアップデート内容
+
+03_FastAPIを用いるように変更しました。  
+会話履歴も含めて、リクエストを送り、レスポンスの余計なプレフィックスを削除するようにしました。
+
 # Bedrock Chatbot with Cognito Authentication
 
 Amazon Bedrock を使用したチャットボットアプリケーションで、Amazon Cognito による認証機能を備えています。
